@@ -26,7 +26,7 @@ client.on('interactionCreate', (interaction) => {
     if (!interaction.isChatInputCommand()){return;}
 
     if (interaction.commandName == "hey"){
-        interaction.reply("works?")
+        interaction.reply("works")
     }
 })
 
