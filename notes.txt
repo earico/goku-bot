@@ -1,0 +1,17 @@
+powerlevel starts 0; increase by 100 per message
+training command, increase by 5000 (2 hour cooldown)
+Per training level up, cooldown increased by 1 hour
+
+
+Traing PL increase:
+Kame House - 5K
+Korin's Tower - 15K 
+Kami's Lookout - 25K
+Gravity Chamber - 100K
+Hyperbolic TC - 500K
+Beerus' Planet - 1M
+
+15K - Unlock Kaioken
+Every 10K, +1 Kaioken Multiplier
+
+If fight lost, low chance of awakening. (0.01%)
